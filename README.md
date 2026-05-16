@@ -1,24 +1,25 @@
 # Ciao, sono Giuseppe 👋
 
-**Data Analyst** in attività · **Master di I livello in AI, Data Science & AI Agents** in corso.
+**Data Analyst** in attività · Studente del **Master Universitario in AI e Agenti AI per il Business** (Unimarconi · start2impact · 60 CFU, I livello).
 
-Uso questo profilo per raccogliere i progetti che costruisco durante il master e gli esperimenti che svolgo per conto mio. L'idea è semplice: trasformare ogni modulo studiato in qualcosa di concreto, documentato e riproducibile.
+Uso questo profilo per raccogliere i progetti che costruisco durante il master e gli esperimenti che svolgo per conto mio. L'idea è semplice: trasformare ogni modulo del percorso in qualcosa di concreto, documentato e riproducibile — 27 progetti pratici previsti nei 12 mesi del master, più i progetti professionali e personali.
 
 ---
 
 ## 🎯 Cosa trovi qui
 
 - 📊 **Progetti professionali** — analisi e dashboard realizzate in contesti reali (es. Power BI con DAX avanzato)
-- 🎓 **Progetti del Master** — un lavoro per modulo, dai fondamenti di Data Science fino agli agenti AI
-- 🧪 **Esperimenti personali** — piccoli proof-of-concept con LLM e librerie nuove
+- 🎓 **Progetti del Master** — un lavoro per ogni corso, dai fondamenti di Data Analytics fino agli Agenti AI per il business
+- 🧪 **Esperimenti personali** — proof-of-concept con LLM, agenti e librerie nuove
 
 ---
 
-## 🛠️ Stack principale
+## 🛠️ Stack in uso e in studio
 
-**Analisi dati & BI:** Power BI · DAX · Excel avanzato · SQL  
-**Programmazione:** Python (pandas, scikit-learn) · TypeScript  
-**AI & LLM:** API Gemini · OpenAI · framework per agenti  
+**Analisi dati & BI:** Power BI · DAX · Excel · SQL · Tableau · Looker Studio  
+**Programmazione:** Python (pandas, NumPy, scikit-learn) · JavaScript / TypeScript  
+**Web & Full Stack:** HTML · CSS · React · Node.js · DevOps  
+**AI & Agenti:** ChatGPT · Gemini API · GitHub Copilot · Cursor · n8n · Microsoft AutoGen  
 **Strumenti:** Git · Jupyter · VS Code
 
 ---
@@ -33,24 +34,28 @@ Dashboard interattiva in Power BI con modellazione dati avanzata, misure DAX per
 Web app che usa l'API Gemini per analizzare frammenti di codice con errori e restituire la versione corretta con spiegazione. Pensata per velocizzare troubleshooting e revisioni.  
 `TypeScript` `Gemini API` `React` `Vite`
 
-> Altri progetti del master in arrivo nei prossimi mesi 🚀
+> 🚀 I primi progetti del master arriveranno qui a partire da novembre 2025.
 
 ---
 
 ## 🎓 Il Master in dettaglio
 
-**Master di I livello in AI, Data Science & AI Agents**
+**Master Universitario in AI e Agenti AI per il Business**  
+Università degli Studi Guglielmo Marconi · start2impact · 60 CFU · 12 mesi · 1.500 ore
 
-I moduli che pubblicherò qui mano a mano:
-- Fondamenti di Data Science e statistica applicata
-- Machine Learning supervisionato e non supervisionato
-- Deep Learning e reti neurali
-- Natural Language Processing
-- Computer Vision
-- Large Language Models e prompt engineering
-- Agenti AI e sistemi multi-agente
+Il programma copre quattro aree — **Data Analytics**, **Data Science**, **Full Stack Development**, **Business Strategy e Agenti AI** — articolate in 6 moduli con 27 progetti pratici corretti uno a uno da senior professionisti del settore.
 
-Ogni modulo ha un progetto finale che troverai in un repository dedicato con prefisso `master-`.
+| Modulo | CFU | Cosa pubblicherò qui |
+|---|---|---|
+| Analisi dei Dati e AI | 6 | Excel, SQL, Prompt Engineering, casi di Data Analytics |
+| Manipolazione, Visualizzazione e AI | 8 | Python, NumPy, notebook di analisi, dashboard Tableau e Looker Studio |
+| Machine Learning | 8 | Modelli predittivi, advanced analytics, ML supervisionato e avanzato |
+| Full Stack Development e AI | 12 | Sito personale, app JavaScript/React/Node.js, simulazione DevOps |
+| AI Business Strategy e Agenti AI | 6 | Strategia di adozione AI, agenti no-code, agenti per dati e sviluppo |
+| Soft Skill | 2 | Personal branding e public speaking |
+| **Esame finale** | 6 | Agente AI avanzato per automatizzare un processo aziendale reale |
+
+Ogni progetto del master verrà pubblicato in un repository dedicato con prefisso `master-` per facilitarne la consultazione.
 
 ---
 
@@ -58,4 +63,4 @@ Ogni modulo ha un progetto finale che troverai in un repository dedicato con pre
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Giuseppe%20Bianco-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/giuseppe-bianco-data-analyst)
 
-📍 Italia · 🌐 Disponibile per scambi di idee su progetti dati e AI
+📍 Italia · 🌐 Aperto a scambi di idee su progetti dati, AI e automazione
