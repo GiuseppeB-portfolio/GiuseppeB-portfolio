@@ -10,7 +10,7 @@ Lavoro su dati reali di marketing e fatturato, costruisco dashboard e analisi ch
 
 ## Cosa faccio oggi
 
-Da ottobre 2024 sono **Data Analyst** presso la Scuola di Alta Formazione San Giuseppe Moscati, dove mi occupo di:
+Da ottobre 2024 sono **Data Analyst** presso la Scuola di Alta Formazione San Giuseppe Moscati (brand di Biesse Solution srl), dove mi occupo di:
 
 - Analisi end-to-end del funnel marketing: lead generation, iscrizioni a webinar, conversioni e fatturato
 - Sviluppo e manutenzione di dashboard Power BI con modellazione dati e misure DAX
