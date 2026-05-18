@@ -13,7 +13,7 @@ Lavoro su dati reali di marketing e fatturato, costruisco dashboard e analisi ch
 Da ottobre 2024 sono **Data Analyst** presso la Scuola di Alta Formazione San Giuseppe Moscati (brand di Biesse Solution srl), dove mi occupo di:
 
 - Analisi end-to-end del funnel marketing: lead generation, iscrizioni a webinar, conversioni e fatturato
-- Sviluppo e manutenzione di dashboard Power BI con modellazione dati e misure DAX
+- Sviluppo e manutenzione di dashboard Power BI, Looker Studio con modellazione dati e misure DAX
 - Reportistica periodica a supporto delle decisioni su campagne, pricing e performance commerciali
 
 Prima di questo, un periodo da freelance su progetti di analisi e reporting per realtà di piccole dimensioni, principalmente con Power BI, Tableau, SQL e Python.
