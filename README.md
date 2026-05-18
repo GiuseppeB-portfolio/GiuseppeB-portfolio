@@ -4,7 +4,7 @@
 
 Lavoro su dati reali di marketing e fatturato, costruisco dashboard e analisi che supportano decisioni di business. In parallelo sto estendendo le mie competenze verso Machine Learning e agenti AI applicati a casi aziendali.
 
-📍 Italia · Aperto a opportunità per ruoli **Data Analyst** e **Junior Data Scientist** (remote o relocation su Milano, Roma, Bologna)
+📍 Italia · Aperto a opportunità per ruoli **Data Analyst** e **Junior Data Scientist** (remote o hybrid)
 
 ---
 
