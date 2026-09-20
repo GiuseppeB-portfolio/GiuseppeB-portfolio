@@ -44,7 +44,7 @@ Web app che usa l'API Gemini per analizzare frammenti di codice con errori e res
 **Data & BI** · Power BI (DAX), Tableau, Looker Studio, Excel avanzato  
 **Programmazione** · Python (pandas, NumPy, Polars, matplotlib, seaborn), SQL  
 **Database** · PostgreSQL, MySQL  
-**AI applicata** · Gemini API, prompt engineering, fondamenti di scikit-learn (in approfondimento)  
+**AI applicata** · Gemini API, prompt engineering, scikit-learn, xgboost
 **Tools** · Git, Jupyter, VS Code
 
 ---
